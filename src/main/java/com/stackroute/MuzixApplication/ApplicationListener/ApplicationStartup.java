@@ -1,4 +1,3 @@
-/*
 package com.stackroute.MuzixApplication.ApplicationListener;
 
 import com.stackroute.MuzixApplication.domain.Track;
@@ -28,4 +27,3 @@ public class ApplicationStartup implements ApplicationListener<ApplicationReadyE
     }
 
 }
-*/
